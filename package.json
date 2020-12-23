@@ -2,13 +2,13 @@
   "name": "pdf.js",
   "version": "0.8.0",
   "devDependencies": {
-    "jsdoc": "3.3.0-alpha9",
-    "jshint": "~2.4.0",
-    "wintersmith": "~2.0.0",
-    "moment": "~2.3.0",
-    "underscore": "~1.4.0",
-    "typogr": "~0.5.0",
-    "yargs": "~1.2.1"
+    "jsdoc": "^3.6.6",
+    "jshint": "^2.12.0",
+    "wintersmith": "^2.5.0",
+    "moment": "^2.29.1",
+    "underscore": "^1.12.0",
+    "typogr": "^0.6.8",
+    "yargs": "^16.2.0"
   },
   "scripts": {
     "test": "node ./node_modules/.bin/jshint --extra-ext .jsm ."
